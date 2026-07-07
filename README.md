@@ -40,7 +40,7 @@ To run this project, you must provide your own dataset of images. Before executi
 ```text
 Your_Project_Folder/
 │
-├── 46_ASK_CNN_Surface_Crack_Detection.py
+├── ASK_CNN_Surface_Crack_Detection.py
 │
 └── CrackDataset/               <-- You must create this folder!
     ├── Positive/               <-- Place all images WITH cracks here
